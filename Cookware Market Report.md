@@ -96,6 +96,5 @@
 <p><strong>Contact Us:</strong></p>
 <ul>
 <li><strong>Email</strong>: <a href=sales@straitsresearch.com>sales@straitsresearch.com</a></li>
-<li><strong>Address</strong>: 825 3rd Avenue, New York, NY, USA, 10022</li>
 <li><strong>Phone</strong>: +1 646 905 0080 (US), +91 8087085354 (India), +44 203 695 0070 (UK)</li>
 </ul>"
